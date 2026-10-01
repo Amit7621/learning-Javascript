@@ -12,4 +12,6 @@ for(let c=1;c<=10;c++)
     console.log(c);
  }   
  //task7.3
- 
+ for(let d=1;d<=10;d++){
+    console.log(`5 x ${d} = ${5 * d}`);
+    }
